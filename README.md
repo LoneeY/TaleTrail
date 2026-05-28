@@ -1,7 +1,7 @@
 # TaleTrailShowcase
 
 Login Screen
-<img width="192" height="722" alt="image" src="https://github.com/user-attachments/assets/5ed35fc5-3608-44f5-8d0e-2eb97735c337" />
+<img width="192" height="422" alt="image" src="https://github.com/user-attachments/assets/5ed35fc5-3608-44f5-8d0e-2eb97735c337" />
 
 Sign Up Screen
 <img width="192" height="722" alt="image" src="https://github.com/user-attachments/assets/c9db6ddf-5f51-4617-9fe4-3086cc8472a0" />
