@@ -1,6 +1,10 @@
 # TaleTrailShowcase
 
-Login Screen
+> A modern SwiftUI reading companion app called TaleTrail which allows users to manage, track and personalize their reading with various different useful and immersive features
+
+## Screens
+- Login Screen
+
 <img width="192" height="422" alt="image" src="https://github.com/user-attachments/assets/5ed35fc5-3608-44f5-8d0e-2eb97735c337" />
 
 Sign Up Screen
